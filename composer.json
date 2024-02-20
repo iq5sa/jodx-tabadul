@@ -1,0 +1,22 @@
+{
+    "name": "jood/tabadul",
+    "description": "The Tabadul Laravel package is a powerful integration tool for seamlessly connecting your Laravel application with the Tabadul payment gateway. It simplifies the process of initiating payments and checking payment statuses, providing a straightforward and efficient solution for e-commerce transactions.",
+    "type": "php",
+    "require": {
+        "illuminate/support": "^8.0",
+        "illuminate/http": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jood\\Tabadul\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jodx",
+            "email": "gitusr@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
