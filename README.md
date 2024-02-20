@@ -1,7 +1,3 @@
-Certainly! Writing a clear and concise description for your Laravel package is crucial to attract users and help them understand the purpose and benefits of your package. Here's an example description for your Tabadul Laravel package:
-
----
-
 # Tabadul Laravel Package
 
 The Tabadul Laravel package is a powerful integration tool for seamlessly connecting your Laravel application with the Tabadul payment gateway. It simplifies the process of initiating payments and checking payment statuses, providing a straightforward and efficient solution for e-commerce transactions.
